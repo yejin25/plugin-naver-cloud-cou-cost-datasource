@@ -1,0 +1,8 @@
+# Environments
+venv/
+
+*.idea/
+
+.pytest_cache
+
+test/api/reports
